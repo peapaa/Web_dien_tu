@@ -10,15 +10,15 @@
 			$this->Ln(10);
 
 			$this->SetFont('Arial', '',12);
-			$this->Cell(200,5,'Cua hang DT GEAR SHOP HCM', 0, 0,'C');
+			$this->Cell(200,5,'Cua hang DT GEAR SHOP Ha Noi', 0, 0,'C');
 			$this->Ln(10);
 
 			$this->SetFont('Arial', '',10);
-			$this->Cell(200,5,'227 Nguyen Van Cu, P5,Q5,TPHCM', 0, 0,'C');
+			$this->Cell(200,5,'Cau Giay, Ha Noi', 0, 0,'C');
 			$this->Ln(10);
 
 			$this->SetFont('Arial', '',10);
-			$this->Cell(200,5,'HotLine:0909987123', 0, 0,'C');
+			$this->Cell(200,5,'HotLine:012345678', 0, 0,'C');
 			$this->Ln(20);
 		}
 
