@@ -1,0 +1,15 @@
+{
+    "name": "topica/dt-gear-shop",
+    "autoload": {
+        "psr-4": {
+            "Topica\\DtGearShop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DaoDucThien",
+            "email": "thienqxa99@gmail.com"
+        }
+    ],
+    "require": {}
+}
